@@ -6,10 +6,7 @@
 
 package boletin26;
 
-/**
- *
- * @author nlopezjimenez
- */
+
 public class Boletin26 {
 
     /**
