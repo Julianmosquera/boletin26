@@ -10,10 +10,7 @@ import java.util.ArrayList;
 import javax.swing.JButton;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author nlopezjimenez
- */
+
 public class JFrame extends javax.swing.JFrame {
 
     /**
